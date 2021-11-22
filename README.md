@@ -7,8 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luuuizff&theme=radical" />
 </div>
-    
+  
+<!--
 <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/githubTeste.png"/>
+-->
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luuuizff&label=Visitas&color=9a07df&style=flat" alt="luuuizff" /> </p>
 
 <br>
