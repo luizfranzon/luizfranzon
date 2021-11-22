@@ -16,6 +16,9 @@
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/python-original.svg"/>
 </p>
 
+<br>
+<br>
+
 <h2 align="center"> Meus Status 📈</h2>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
