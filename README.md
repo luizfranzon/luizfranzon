@@ -17,7 +17,7 @@
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/linux-original.svg"/>
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/python-original.svg"/>
 </p>
-<script src="https://tryhackme.com/badge/531602"></script>
+
 <br>
 
 <h2 align="center"> Meus Status 📈</h2>
