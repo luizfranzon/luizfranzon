@@ -11,10 +11,10 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luuuizff&theme=radical" />
 </div>
   
-<div>
+<p align="center">
     <h3 align="center">Linguagens e Ferramentas 💻</h3>
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
-</div>
+</p>
 
   
 <!--
