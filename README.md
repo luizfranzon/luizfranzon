@@ -33,6 +33,4 @@
 -->
 
 ##
-<p align="center">
-    ![snake gif](https://github.com/luuuizff/luuuizff/blob/output/github-contribution-grid-snake.gif)
-</p>
+<img src="![snake gif](https://github.com/luuuizff/luuuizff/blob/output/github-contribution-grid-snake.gif)"/>
