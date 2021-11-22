@@ -13,7 +13,7 @@
   
 <div>
     <h3 align="center">Linguagens e Ferramentas 💻</h3>
-    <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
+    <img width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
 </div>
 
   
