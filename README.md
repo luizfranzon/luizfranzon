@@ -37,4 +37,4 @@
 -->
 
 ##
-![snake gif](https://github.com/luuuizff/luuuizff/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Luuuizff/Luuuizff/blob/output/github-contribution-grid-snake.svg)
