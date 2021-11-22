@@ -1,5 +1,7 @@
+<img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/github2.png"/>
+<!--
 <h1 align="center"> Olá! Meu nome é Luiz, e esse é meu perfil! <img src="https://raw.githubusercontent.com/Luuuizff/Luuuizff/main/master/Assets/Hi.gif" width="29px"> </h1>
-
+-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luuuizff&label=Visitas&color=9a07df&style=flat" alt="luuuizff" /> </p>
 
 <br>
