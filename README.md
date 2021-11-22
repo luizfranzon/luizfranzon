@@ -22,7 +22,7 @@
 
 <h2 align="center"> Meus Status 📈</h2>
 <div align="center">
-   <script src="https://tryhackme.com/badge/531602"></script>
+  <script src="https://tryhackme.com/badge/531602"></script>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuuizff&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
