@@ -3,7 +3,7 @@
 <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/githubTeste.png"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luuuizff&label=Visitas&color=9a07df&style=flat" alt="luuuizff" /> </p>
 
-<h3 align="center">Linguagens e Ferramentas 💻</h3>
+<h2 align="center">Linguagens e Ferramentas 💻</h2>
 <p align="center">
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/bash.svg"/>
