@@ -3,6 +3,7 @@
 <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/githubTeste.png"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luuuizff&label=Visitas&color=9a07df&style=flat" alt="luuuizff" /> </p>
 
+<h2 align="center"> Meus Status </h2>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuuizff&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
