@@ -1,5 +1,3 @@
-## Olá! Meu nome é Luiz, e esse é meu perfil! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
 <h1 align="center">Olá! Meu nome é Luiz, e esse é meu perfil! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
 <div align="center">
