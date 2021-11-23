@@ -37,5 +37,4 @@
  Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
-##
 ![snake gif](https://github.com/Luuuizff/Luuuizff/blob/output/github-contribution-grid-snake.svg)
