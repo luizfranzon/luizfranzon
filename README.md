@@ -23,7 +23,6 @@
 <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/githubTeste.png"/>
 -->
 
-<br>
 
 <!--
 <h2 align="center">Linguagens e Ferramentas 💻</h2>
@@ -39,7 +38,6 @@
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/python-original.svg"/>
 </p>
 -->
-<br>
   
 <!--
  Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
