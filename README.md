@@ -23,11 +23,9 @@
 
 <p align="center">
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
-    <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/git.svg"/>
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/html5-original-wordmark.svg"/>
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/css3-original-wordmark.svg"/>
-    <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/javascript-original.svg"/>
-    <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/linux-original.svg"/>
+    <img align="center" width="50" height="50"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/javascript-original.svg"/>
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/python-original.svg"/>
 </p>
   
