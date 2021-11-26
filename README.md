@@ -22,11 +22,11 @@
 
 
 <p align="center">
-    <img align="center" width="55" height="55"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/vscode.png"/>
-    <img align="center" width="55" height="55"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/html.png"/>
-    <img align="center" width="55" height="55"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/css.png"/>
-    <img align="center" width="55" height="55"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/js.png"/>
-    <img align="center" width="55" height="55"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/python.png"/>
+    <img align="center" width="65" height="65"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/vscode.png"/>
+    <img align="center" width="65" height="65"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/html.png"/>
+    <img align="center" width="65" height="65"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/css.png"/>
+    <img align="center" width="65" height="65"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/js.png"/>
+    <img align="center" width="65" height="65"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/novos/python.png"/>
 </p>
   
 <!--
