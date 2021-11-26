@@ -21,13 +21,13 @@
 -->
 
 
-<p align="center">
+<div style="display: inline_block">
     <img align="center" width="50" height="50"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/html5-original-wordmark.svg"/>
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/css3-original-wordmark.svg"/>
     <img align="center" width="50" height="50"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/javascript-original.svg"/>
     <img align="center" width="70" height="70"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/python-original.svg"/>
-</p>
+</div>
   
 <!--
  Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
