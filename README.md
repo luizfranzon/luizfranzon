@@ -23,7 +23,6 @@
 
 <p align="center">
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/Visual_Studio_Code_1.35_icon.png"/>
-    <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/bash.svg"/>
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/csharp-original.svg"/>
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/css3-original-wordmark.svg"/>
     <img align="center" width="40" height="40"/ src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/icons/git.svg"/>
