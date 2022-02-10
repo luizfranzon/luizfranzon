@@ -18,7 +18,6 @@
   
 <br>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luuuizff&label=Visitas&color=9a07df&style=flat" alt="luuuizff" /> </p>
 
 <!--
 <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/githubTeste.png"/>
