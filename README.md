@@ -13,11 +13,12 @@
   <a href="https://github.com/Luuuizff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuuizff&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuuizff&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luuuizff&theme=midnight-purple" />
 </div>
   
 <br>
   
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luuuizff&label=Visitas&color=9a07df&style=flat" alt="luuuizff" /> </p>
+
 
 <!--
 <img src="https://github.com/Luuuizff/Luuuizff/blob/main/master/Assets/githubTeste.png"/>
