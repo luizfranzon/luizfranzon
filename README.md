@@ -6,9 +6,8 @@
 - 🎂 18 anos.
 - 💚 Apaixonado por tecnologia.
 - 🔭 Atualmente estudando **HTML**, **CSS** e **JavaScript**!
-<p align="center"><img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff"/></p>
 <br>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff"/></p>
 <!-- Caixa de status -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
