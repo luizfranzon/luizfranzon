@@ -1,6 +1,6 @@
 <!-- Texto em cima -->
 <h1 align="center"> Olá! Meu nome é Luiz, e bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/Assets/Hi.gif" width="29px"></h1>
-<img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff"/>
+<img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff"/> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiizff&" alt="luiizff" /></p>
 
 ### Sobre mim:
 - 🎂 18 anos.
