@@ -8,7 +8,7 @@
 - 💚 Apaixonado por Tecnologia.
 
 - 🔭 Atualmente estudando HTML, CSS e JavaScript!
-
+<br>
 <!-- Caixa de status -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
