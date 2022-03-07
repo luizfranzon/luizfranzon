@@ -1,7 +1,5 @@
 <!-- Texto em cima -->
-<h1 aligh="center"> Olá! Meu nome é Luiz, e bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/Assets/Hi.gif" width="29px"></h1>
-
-
+<h1 align="center"> Olá! Meu nome é Luiz, e bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/Assets/Hi.gif" width="29px"></h1>
 
 ### Sobre mim:
 - 🎂 18 Anos.
