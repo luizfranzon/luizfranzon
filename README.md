@@ -19,9 +19,15 @@
 </p>
 
 <!-- Contator de visitas -->
-<br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff" /> </p>
+
+
+**Sobre mim:** 
+
+- 💚 Apaixonado por Tecnologia.
+
+- 🔭 Atualmente estudando HTML, CSS e JavaScript!
+
 
 <!-- COBRINHA
 ##
