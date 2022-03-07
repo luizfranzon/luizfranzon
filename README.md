@@ -1,6 +1,14 @@
 <!-- Texto em cima -->
 <h1 align="center"> Olá! Meu nome é Luiz, e bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/Assets/Hi.gif" width="29px"></h1>
 
+
+**Sobre mim:** 
+- 🎂 18 Anos.
+
+- 💚 Apaixonado por Tecnologia.
+
+- 🔭 Atualmente estudando HTML, CSS e JavaScript!
+
 <!-- Caixa de status -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,13 +29,6 @@
 
 <!-- Contator de visitas -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff" /> </p>
-
-
-**Sobre mim:** 
-
-- 💚 Apaixonado por Tecnologia.
-
-- 🔭 Atualmente estudando HTML, CSS e JavaScript!
 
 
 <!-- COBRINHA
