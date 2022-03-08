@@ -20,7 +20,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizff&layout=compact&custom_title=Linguagens%20mais%20usadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizff&layout=compact&custom_title=Linguagens%20mais%20usadas&layout=compact"
     />
   </a>
 </p>
