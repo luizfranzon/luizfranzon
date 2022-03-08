@@ -1,12 +1,15 @@
+
 <h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/Assets/Hi.gif" width="29px"></h1>
+
 
 ### Sobre mim:
 - 🎂 18 anos.
 - 💚 Apaixonado por tecnologia.
 - 🔭 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
 - 👀 Tenho interesse em: **ReactJS**, **Node.JS** e **Electron**.
+
 <br>
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff"/></p> -->
+
 
 <!-- Caixa de status -->
 <p align="center">
@@ -14,6 +17,7 @@
     <img
       align="center"
       height="165"
+      width="200"
       src="https://github-readme-stats.vercel.app/api?username=luiizff&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues?show_owner&layout=compact"
     />
   </a>
@@ -26,11 +30,4 @@
 </p>
 
 
-<!--
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff" /> </p>
--->
 
-<!-- COBRINHA
-##
-![snake gif](https://github.com/luiizff/luiizff/blob/output/github-contribution-grid-snake.svg)
--->
