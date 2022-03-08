@@ -5,7 +5,7 @@
 - 💚 Apaixonado por tecnologia.
 - 🔭 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
 - 👀 Tenho interesse em: **ReactJS**, **Node.JS** e **Electron**.
-
+<br>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=luiizff&label=Visitas&color=9a07df&style=flat" alt="luiizff"/></p> -->
 
 <!-- Caixa de status -->
