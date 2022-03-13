@@ -1,7 +1,7 @@
 
 <h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/outros/Hi.gif" width="29px"></h1>
 
-<p aligh="center">Após muito tempo pulando de uma linguagem pra outra, decidi focar em front-end e espero algum dia poder trabalhar na área. :)</p>
+<h3 aligh="center">Após muito tempo pulando de uma linguagem pra outra, decidi focar em front-end e espero algum dia poder trabalhar na área. :)</h3>
 
 ### Sobre mim:
 - 🎂 18 anos.
