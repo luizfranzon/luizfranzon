@@ -7,7 +7,6 @@
 - 🧠 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
 - 👀 Tenho interesse em: **ReactJS**, **TypeScript**, **Node.JS** e **Electron**.
 
-
 <br>
 
 <!-- Caixa de status -->
