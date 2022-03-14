@@ -5,7 +5,7 @@
 - 🎂 18 anos.
 - 💚 Apaixonado por tecnologia.
 - 🧠 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
-- 👀 Tenho interesse em: **ReactJS**, **Node.JS** e **Electron**.
+- 👀 Tenho interesse em: **ReactJS**,**TypeScript**,**Node.JS** e **Electron**.
 
 
 <br>
