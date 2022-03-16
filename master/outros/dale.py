@@ -1,6 +1,0 @@
-print('dale')
-print('dale')
-print('dale')
-print('dale')
-print('dale')
-print('dale')
