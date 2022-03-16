@@ -1,7 +1,0 @@
-alert('simsim')
-alert('simsim')
-alert('simsim')
-alert('simsim')
-alert('simsim')
-alert('simsim')
-alert('simsim')
