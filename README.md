@@ -29,6 +29,7 @@
     <img
       align="center"
       height="140"
+      width="140"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizff&layout=compact&custom_title=Linguagens%20mais%20usadas"
     />
   </a>
