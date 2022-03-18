@@ -1,9 +1,6 @@
 
 <h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/luiizff/luiizff/main/master/outros/Hi.gif" width="29px"></h1>
 
-teste
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
-
 ### Sobre mim:
 - 🎂 18 anos.
 - 💚 Apaixonado por tecnologia.
