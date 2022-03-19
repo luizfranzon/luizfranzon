@@ -33,5 +33,3 @@
     />
   </a>
 </p>
-
-![snake gif](https://github.com/luiizff/luiizff/blob/output/github-contribution-grid-snake.svg)
