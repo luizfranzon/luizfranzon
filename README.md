@@ -32,5 +32,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfranzon&layout=compact&custom_title=Linguagens%20mais%20usadas"
     />
   </a>
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=9a07df&style=flat" alt="luizfranzon"/> </p>
 </p>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=9a07df&style=flat" alt="luizfranzon"/> </p>
+
