@@ -20,14 +20,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="160"
+      height="180"
       src="https://github-readme-stats.vercel.app/api?username=luizfranzon&count_private=true&show_icons=true&custom_title=Github%20Status"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="160"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfranzon&layout=compact&custom_title=Linguagens%20mais%20usadas"/>
   </a>
       <p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=9a07df&style=flat" alt="luizfranzon"/></p>
