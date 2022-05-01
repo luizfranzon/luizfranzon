@@ -11,8 +11,8 @@
 
 <!-- Contato -->
 <p align="center">
-    <a target="_blank" href="mailto:luiizff@protonmail.com"><img width="120" src="./media/badges/outlook.png"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img width="120" src="./media/badges/linkedin.png"></a>  
+    <a target="_blank" href="mailto:luiizff@protonmail.com"><img width="130" src="./media/badges/outlook.png"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img width="130" src="./media/badges/linkedin.png"></a>  
 </p>
 
 <!-- Caixa de status -->
