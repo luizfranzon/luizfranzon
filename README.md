@@ -11,7 +11,7 @@
 
 <!-- Contato -->
 <p align="center">
-    <a target="_blank" href="mailto:luizfranzon@outlook.com"><img src="https://img.shields.io/badge/-Microsoft%20Outlook-blue?&logo=microsoft-outlook"></a>
+    <a target="_blank" href="mailto:luizfranzon@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue?&logo=microsoft-outlook"></a>
     <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img  src="https://img.shields.io/badge/-Linkedin-0a66c2?&logo=linkedin"></a>
     <a href="https://open.spotify.com/user/8cfpqllf0b54012usbsgz48nx?si=af520d91f2914453" target="_blank"><img src="https://img.shields.io/badge/-Spotify-14803B?&logo=spotify"></a>
 
