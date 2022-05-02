@@ -11,8 +11,8 @@
 
 <!-- Contato -->
 <p align="left">
-    <a target="_blank" href="mailto:luizfranzon@outlook.com"><img width="130" src="./media/badges/outlook.png"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img width="130" src="./media/badges/linkedin.png"></a>  
+    <a target="_blank" href="mailto:luizfranzon@outlook.com"><img src="https://img.shields.io/badge/-Microsoft%20Outlook-blue"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img  src="https://img.shields.io/badge/-Linkedin-0a66c2"></a>  
 </p>
 
 <!-- Caixa de status -->
