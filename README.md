@@ -1,5 +1,5 @@
 
-<h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo(a) ao meu perfil! <img src="./media/outros/Hi.gif" width="29px"></h1>
+<h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo(a) ao meu perfil! <img src="./media/outros/Hi.gif" width="10px"></h1>
 
 ### Sobre mim:
 - 🎂 18 anos.
