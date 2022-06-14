@@ -33,7 +33,6 @@
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfranzon&layout=compact&custom_title=Linguagens%20mais%20usadas"/>
   </a>
+      <P align="left"><img src="https://spotify-playing-nubmm3ohd-luizfranzon.vercel.app/api/now-playing"></p>
       <p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=9a07df&style=flat" alt="luizfranzon"/></p>
 </p>
-
-<img src="https://spotify-playing-now-readme.vercel.app/api/now-playing" width="540" height="52">
