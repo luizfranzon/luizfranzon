@@ -35,4 +35,4 @@
 </p>
 
 <!-- <p><img src="https://spotify-playing-nubmm3ohd-luizfranzon.vercel.app/api/now-playing"/></p> -->
-<p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=9a07df&style=flat" alt="luizfranzon"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=00d26a&style=flat" alt="luizfranzon"/></p>
