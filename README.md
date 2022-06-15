@@ -11,9 +11,9 @@
 
 <!-- Contato -->
 <p align="center">
-    <a target="_blank" href="mailto:luizfranzon@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue?&logo=microsoft-outlook"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img  src="https://img.shields.io/badge/-Linkedin-0a66c2?&logo=linkedin"></a>
-    <a target="_blank" href="https://open.spotify.com/user/8cfpqllf0b54012usbsgz48nx"><img src="https://img.shields.io/badge/Spotify-1ed760?&logo=spotify"></a>
+    <a target="_blank" width="100" href="mailto:luizfranzon@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue?&logo=microsoft-outlook"></a>
+    <a target="_blank" width="100" href="https://www.linkedin.com/in/luizffernando/"><img  src="https://img.shields.io/badge/-Linkedin-0a66c2?&logo=linkedin"></a>
+    <a target="_blank" width="100" href="https://open.spotify.com/user/8cfpqllf0b54012usbsgz48nx"><img src="https://img.shields.io/badge/Spotify-1ed760?&logo=spotify"></a>
 </p>
 
 <!-- Caixa de status -->
