@@ -13,7 +13,7 @@
 <p align="center">
     <a target="_blank" href="mailto:luizfranzon@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue?&logo=microsoft-outlook"></a>
     <a target="_blank" href="https://www.linkedin.com/in/luizffernando/"><img  src="https://img.shields.io/badge/-Linkedin-0a66c2?&logo=linkedin"></a>
-    <a target="" href=""><img width="1000" src="https://img.shields.io/badge/Spotify-37e777?&logo=spotify"></a>
+    <a target="" href=""><img src="https://img.shields.io/badge/Spotify-37e777?&logo=spotify"></a>
     
 
 </p>
