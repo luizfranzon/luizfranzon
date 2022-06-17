@@ -8,7 +8,6 @@
 - 👀 Tenho interesse em: **React**, **TypeScript**, **NodeJS** e **Electron**.
 
 <br>
-
 <!-- Contato -->
 <p align="center">
     <a target="_blank" href="mailto:luizfranzon@outlook.com"><img width="90" src="https://img.shields.io/badge/Outlook-blue?&logo=microsoft-outlook"></a>
