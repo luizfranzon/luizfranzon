@@ -4,7 +4,7 @@
 ### Sobre mim:
 - 🎂 18 anos.
 - 💚 Apaixonado por tecnologia.
-- 🧠 Atualmente estudando: **React** e **JavaScript**!
+- 🧠 Atualmente estudando: **React** e **TypeScript**!
 - 👀 Tenho interesse em: **React**, **TypeScript**, **NodeJS** e **Electron**.
 
 <br>
