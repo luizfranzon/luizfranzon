@@ -2,7 +2,7 @@
 <h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo(a) ao meu perfil! <img width="40" src="https://raw.githubusercontent.com/luizfranzon/luizfranzon/main/media/outros/Hi.gif"></h1>
 
 ### Sobre mim:
-- 🎂 18 anos.
+- 🎂 19 anos.
 - 💚 Apaixonado por tecnologia.
 - 🧠 Atualmente estudando: **React** e **TypeScript**!
 - 👀 Tenho interesse em: **React**, **TypeScript**, **NodeJS** e **Electron**.
