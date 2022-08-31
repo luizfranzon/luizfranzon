@@ -1,5 +1,5 @@
 
-<h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo(a) ao meu perfil! <img width="40" src="https://raw.githubusercontent.com/luizfranzon/luizfranzon/34360ba9fe31130188994352c12023982daf36a3/media/outros/hand.svg"></h1>
+<h1 align="center"> Olá! Meu nome é Luiz, e seja bem-vindo(a) ao meu perfil!  <img width="40" src="https://raw.githubusercontent.com/luizfranzon/luizfranzon/34360ba9fe31130188994352c12023982daf36a3/media/outros/hand.svg"></h1>
 
 ### Sobre mim:
 - 🎂 19 anos.
