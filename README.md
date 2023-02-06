@@ -4,7 +4,7 @@
 ### Sobre mim:
 - 🎂 19 anos.
 - 💚 Apaixonado por tecnologia.
-- 📚 Estudante de **Ciência da Computação.**
+- 📚 Estudante de **Análise e Desenvolvimento de Sistemas.**
 - 🧠 Atualmente estudando: **React** e **TypeScript**!
 
 <br>
