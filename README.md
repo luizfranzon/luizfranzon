@@ -3,8 +3,9 @@
 🎂 19 Years old. <br>
 💚 Passionate about technology. <br>
 🏠 Living in São Paulo, Brazil.
+🎓 Graduating **Systems analysis and development**.
 
-### What I'm working on 👨‍💻
+### What I'm working on 🖥️
 
 📚 Currently studying **React** and **TypeScript**.  <br>
 🧠 Currently trying to get my first opportunity as a **Front-end Developer**. <br>
