@@ -16,4 +16,4 @@
 ✉️ [E-mail](mailto:luizfranzon@outlook.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/luizffranzon/) <br>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visitas&color=196cbe&style=flat" alt="luizfranzon"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visits&color=196cbe&style=flat" alt="luizfranzon"/></p>
