@@ -2,8 +2,8 @@
 
 🎂 19 Years old. <br>
 💚 Passionate about technology. <br>
-🏠 Living in São Paulo, Brazil.
-🎓 Graduating **Systems analysis and development**.
+🏠 Living in São Paulo, Brazil. <br>
+🎓 Graduating **Systems analysis and development**. <br>
 
 ### What I'm working on 🖥️
 
