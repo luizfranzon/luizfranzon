@@ -1,6 +1,6 @@
 ### Hey! I'm Luiz! 👋
 
-🎂 19 Years old. <br>
+🎂 19 years old. <br>
 💚 Passionate about technology. <br>
 🏠 Living in São Paulo, Brazil. <br>
 🎓 Graduating **Systems analysis and development**. <br>
