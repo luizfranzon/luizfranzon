@@ -1,4 +1,4 @@
-### Hey! I'm Luiz! 👋
+### Hey! I'm Luiz! <img width="32" src="./media/outros/handWaving.gif">
 
 🎂 19 years old. <br>
 💚 Passionate about technology. <br>
