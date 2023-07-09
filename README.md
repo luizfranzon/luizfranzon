@@ -13,7 +13,7 @@ I'm a Front-end Developer seeking my first opportunity in this amazing tech indu
 <br>
 
 [![Twitter Badge](https://img.shields.io/badge/-@luuizff-4d9bc0?style=flat-square&labelColor=4d9bc0&logo=twitter&logoColor=white&link=https://twitter.com/luuizff_)](https://twitter.com/luuizff_) 
-[![Linkedin Badge](https://img.shields.io/badge/-luizffranzon-063f5b?style=flat-square&logo=devto&logoColor=white&link=https://www.linkedin.com/in/luizffranzon/)](https://www.linkedin.com/in/luizffranzon/) 
+[![Linkedin Badge](https://img.shields.io/badge/-luizffranzon-063f5b?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luizffranzon/)](https://www.linkedin.com/in/luizffranzon/) 
 [![Gmail Badge](https://img.shields.io/badge/-luizfranzon@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:luizfranzon@outlook.com)](mailto:luizfranzon@outlook.com)
 [![Dev.to Badge](https://img.shields.io/badge/-dev.to-black?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/luizfranzon)](https://dev.to/luizfranzon)
 > I haven't written any articles on the dev.to link yet, but I hope to start sharing my learnings soon :)
