@@ -1,9 +1,9 @@
-name: READE build
+name: READEME build
 
 on:
   push:
     branches: 
-      - master
+      - main
   schedule:
     - cron: "0 6 * * *"
 
