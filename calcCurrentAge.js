@@ -1,7 +1,7 @@
 const Mustache = require('mustache');
 const fs = require('fs');
 const mustachePath = './main.mustache';
-const birthDate = new Date(2003, 7, 5); // 5th August 2003
+const birthDate = new Date(2003, 6, 5); // 5th July 2003
 const currentDate = new Date();
 const millisecondsInAYear = 31536000000;
 
