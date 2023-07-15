@@ -3,7 +3,7 @@ name: READEME age build
 on:
   push:
     branches: 
-      - master
+      - main
   schedule:
     - cron: "0 6 * * *"
 
