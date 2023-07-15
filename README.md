@@ -2,7 +2,7 @@
 
 I'm a Front-end Developer seeking my first opportunity in this amazing tech industry.
 
-- 🎂 19 years old. <br>
+- 🎂 20 years old. <br>
 - 💚 Passionate about technology. <br>
 - 🏠 Living in São Paulo, Brazil. <br>
 - 💬 Ask me about movies, games, hacking, and tech <br>
