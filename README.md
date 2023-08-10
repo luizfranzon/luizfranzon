@@ -8,7 +8,7 @@ I'm a Front-end Developer seeking my first opportunity in this amazing tech indu
 - 💬 Ask me about movies, games, hacking, and tech <br>
 - 🎓 Graduating **Systems analysis and development**. <br>
 - 📚 Studying **React** and **TypeScript**.  <br>
-- ⚡ Languages: JavaScript, TypeScript, Python, HTML <br>
+- ⚡ Languages: JavaScript, TypeScript, C# <br>
 
 <br>
 
