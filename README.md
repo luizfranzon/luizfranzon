@@ -1,4 +1,4 @@
-<h2> 𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <h2/> <img width="32" src="./media/outros/handWaving.gif">
+<h2> 𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <h2/> <img width="32" src="./media/outros/handWaving.gif"/>
 
 I'm a Front-end Developer seeking my first opportunity in this amazing tech industry.
 
