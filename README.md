@@ -1,5 +1,3 @@
-<h3>Hi! I'm Luiz</h3> 
-
 I'm a Front-end Developer seeking my first opportunity in this amazing tech industry.
 
 - 🎂 {{age}} years old. <br>
