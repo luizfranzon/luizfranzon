@@ -1,6 +1,6 @@
-<h2>𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <img width="32" src="./media/outros/handWaving.gif"/></h2> 
+<!--- Gerado em: 22 de fevereiro de 2024 -->
 
-I'm a Front-end Developer seeking my first opportunity in this amazing tech industry.
+<h2>𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <img width="32" src="./media/outros/handWaving.gif"/></h2> 
 
 - 🎂 20 years old. <br>
 - 💚 Passionate about technology. <br>

@@ -1,14 +1,13 @@
-const Mustache = require('mustache');
-const fs = require('fs');
-const mustachePath = './main.mustache';
-const birthDate = new Date(2003, 7, 5); // 5th August 2003
-const currentDate = new Date();
-const millisecondsInAYear = 31536000000;
+const fs = require('fs')
+const Mustache = require('mustache')
+const { differenceInYears, format } = require("date-fns")
+const { ptBR } = require("date-fns/locale/pt-BR")
 
 const generateReadme = () => {
-  const actualAge = Math.floor((currentDate - birthDate) / millisecondsInAYear);
-  const output = Mustache.render(fs.readFileSync(mustachePath, 'utf8'), { age: actualAge });
-  fs.writeFileSync('README.md', output);
+  const actualAge = differenceInYears(new Date(), new Date(2003, 7, 5))
+  const generatedAtDate = format(new Date(), "dd 'de' MMMM 'de' yyyy", { locale: ptBR })
+  const output = Mustache.render(fs.readFileSync('./main.mustache', 'utf8'), { age: actualAge, generatedAt: generatedAtDate })
+  fs.writeFileSync('README.md', output)
 };
 
 generateReadme();
