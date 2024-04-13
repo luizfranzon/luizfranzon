@@ -16,4 +16,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfranzon@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:luizfranzon@outlook.com)](mailto:luizfranzon@outlook.com)
 [![Portfólio Badge](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/luizfranzon)](https://www.luizfranzon.dev/)
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=luizfranzon&label=Visits&color=196cbe&style=flat" alt="luizfranzon"/></p>
+<p align="right"><img src="https://visitcount.itsvg.in/api?id=luizfranzon&label=Profile%20Views&color=0&icon=8&pretty=true" alt="luizfranzon profile views"/></p>
