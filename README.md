@@ -8,7 +8,7 @@
 - 💬 Ask me about movies, games, hacking, and tech <br>
 - 🎓 Graduating **Systems analysis and development**. <br>
 - 📚 Studying **React** and **TypeScript**.  <br>
-- ⚡ <strong>Languages</strong>: TypeScript, C# <br>
+- ⚡ <strong>Languages</strong>: JavaScript, TypeScript, C# <br>
 
 <br>
 
