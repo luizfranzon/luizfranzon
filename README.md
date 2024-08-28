@@ -1,4 +1,4 @@
-<!--- Gerado em: 27 de agosto de 2024 -->
+<!--- Gerado em: 28 de agosto de 2024 -->
 
 <h2>𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <img width="32" src="./media/outros/handWaving.gif"/></h2> 
 
@@ -6,7 +6,7 @@
 - 💚 Passionate about technology. <br>
 - 🏠 Living in São Paulo, Brazil. <br>
 - 💬 Ask me about movies, games, hacking, and tech <br>
-- 🎓 Graduating **Systems analysis and development**. <br>
+- 🎓 Graduating **Computer Science**. <br>
 - 📚 Studying **React** and **TypeScript**.  <br>
 - ⚡ <strong>Languages</strong>: TypeScript, C# <br>
 
