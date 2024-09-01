@@ -5,10 +5,10 @@
 - 🎂 21 years old. <br>
 - 💚 Passionate about technology. <br>
 - 🏠 Living in São Paulo, Brazil. <br>
-- 💬 Ask me about movies, games, hacking, and tech <br>
+- 💬 Ask me about movies, games, hacking, and tech. <br>
 - 🎓 Graduating **Computer Science**. <br>
 - 📚 Studying **React** and **TypeScript**.  <br>
-- ⚡ **Technologies:**: TypeScript, C# <br>
+- ⚡ **Technologies:** TypeScript, C# <br>
 
 <br>
 
