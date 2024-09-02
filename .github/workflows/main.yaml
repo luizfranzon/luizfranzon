@@ -23,6 +23,6 @@ jobs:
     - name: Generate README
       run: node calcCurrentAge.js
     - name: Commit and push
-      uses: mikeal/publish-to-github-action@main
+      uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
