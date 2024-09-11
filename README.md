@@ -16,4 +16,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-luizfranzon@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:luizfranzon@outlook.com)](mailto:luizfranzon@outlook.com)
 [![Portfólio Badge](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/luizfranzon)](https://www.luizfranzon.dev/)
 
-<p align="right"><img src="https://visitcount.itsvg.in/api?id=luizfranzon&label=Profile%20Views&color=0&icon=8&pretty=true" alt="luizfranzon"/></p>
+<p align="right">
+<a href="https://wakatime.com/@018cc5b8-4926-4b2d-b692-9c7652807ce5"><img src="https://wakatime.com/badge/user/018cc5b8-4926-4b2d-b692-9c7652807ce5.svg" alt="Total time coded since Jan 1 2024" /></a>
+<img src="https://visitcount.itsvg.in/api?id=luizfranzon&label=Profile%20Views&color=0&icon=8&pretty=true" alt="luizfranzon"/>
+</p>
