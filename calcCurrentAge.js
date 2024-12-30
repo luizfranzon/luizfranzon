@@ -1,17 +1,33 @@
-const { differenceInYears, format } = require("date-fns");
+const { differenceInYears } = require("date-fns");
+const { formatInTimeZone } = require("date-fns-tz");
+const { toZonedTime } = require("date-fns-tz");
 const { ptBR } = require("date-fns/locale/pt-BR");
 const Mustache = require("mustache");
 const fs = require("fs");
 
 async function generateReadme() {
-  const actualAge = differenceInYears(new Date(), new Date(2003, 7, 5));
+  const timeZone = "America/Sao_Paulo";
+  const birthDate = new Date(2003, 7, 5); //05/08/2003
+  const currentDate = new Date();
 
-  const generatedAtDate = format(
+  const zonedBirthDate = toZonedTime(birthDate, timeZone);
+  const zonedCurrentDate = toZonedTime(currentDate, timeZone);
+
+  const actualAge = differenceInYears(zonedCurrentDate, zonedBirthDate);
+
+  console.log({
+    birthDate,
+    zonedBirthDate,
+    currentDate,
+    zonedCurrentDate,
+    actualAge,
+  })
+
+  const generatedAtDate = formatInTimeZone(
     new Date(),
+    "America/Sao_Paulo",
     "dd 'de' MMMM 'de' yyyy 'às' HH:mm:ss",
-    {
-      locale: ptBR,
-    }
+    { locale: ptBR }
   );
 
   const output = Mustache.render(fs.readFileSync("./main.mustache", "utf8"), {
