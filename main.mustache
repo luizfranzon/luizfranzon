@@ -7,7 +7,7 @@
 - 🏠 Living in São Paulo, Brazil. <br>
 - 💬 Ask me about movies, games, hacking, and tech. <br>
 - 🎓 Graduating **Computer Science**. <br>
-- 📚 Studying **Angular** and **TypeScript**.  <br>
+- 📚 Studying **Angular**, **TypeScript** and **Java**.  <br>
 - ⚡ **Technologies:** TypeScript, C# <br>
 
 <br>
