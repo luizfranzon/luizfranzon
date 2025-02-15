@@ -1,4 +1,4 @@
-<!--- Gerado em: 15 de fevereiro de 2025 às 03:05:12 -->
+<!--- Gerado em: 15 de fevereiro de 2025 às 11:23:40 -->
 
 <h2>𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <img width="32" src="./media/outros/handWaving.gif"/></h2> 
 
@@ -18,5 +18,4 @@
 
 <p align="right">
 <a href="https://wakatime.com/@018cc5b8-4926-4b2d-b692-9c7652807ce5"><img src="https://wakatime.com/badge/user/018cc5b8-4926-4b2d-b692-9c7652807ce5.svg" alt="Total time coded since Jan 1 2024" /></a>
-<img src="https://visitcount.itsvg.in/api?id=luizfranzon&label=Profile%20Views&color=0&icon=8&pretty=true" alt="luizfranzon"/>
 </p>
