@@ -1,8 +1,8 @@
-<!--- Gerado em: 04 de agosto de 2025 às 03:10:28 -->
+<!--- Gerado em: 05 de agosto de 2025 às 03:08:18 -->
 
 <h2>𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <img width="32" src="./media/outros/handWaving.gif"/></h2> 
 
-- 🎂 21 years old. <br>
+- 🎂 22 years old. <br>
 - 💚 Passionate about technology. <br>
 - 🏠 Living in São Paulo, Brazil. <br>
 - 💬 Ask me about movies, games, hacking, and tech. <br>
