@@ -1,4 +1,4 @@
-<!--- Gerado em: 23 de dezembro de 2025 às 03:07:58 -->
+<!--- Gerado em: 23 de dezembro de 2025 às 22:48:50 -->
 
 <h2>𝐇𝐢, 𝐈'𝐦 𝐋𝐮𝐢𝐳 <img width="32" src="./media/outros/handWaving.gif"/></h2> 
 
@@ -7,7 +7,7 @@
 - 🏠 Living in São Paulo, Brazil. <br>
 - 💬 Ask me about movies, games, hacking, and tech. <br>
 - 🎓 Graduating **Computer Science**. <br>
-- 📚 Studying **Angular**, **TypeScript** and **Java**.  <br>
+- 📚 Studying **Angular**, **TypeScript**.  <br>
 - ⚡ **Technologies:** TypeScript, C# <br>
 
 <br>
