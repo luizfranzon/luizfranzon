@@ -5,7 +5,7 @@ const { ptBR } = require("date-fns/locale/pt-BR");
 const Mustache = require("mustache");
 const fs = require("fs");
 
-async function generateReadme() {
+function generateReadme() {
   const timeZone = "America/Sao_Paulo";
   const birthDate = new Date(2003, 7, 5); //05/08/2003
   const currentDate = new Date();
@@ -15,17 +15,9 @@ async function generateReadme() {
 
   const actualAge = differenceInYears(zonedCurrentDate, zonedBirthDate);
 
-  console.log({
-    birthDate,
-    zonedBirthDate,
-    currentDate,
-    zonedCurrentDate,
-    actualAge,
-  })
-
   const generatedAtDate = formatInTimeZone(
-    new Date(),
-    "America/Sao_Paulo",
+    currentDate,
+    timeZone,
     "dd 'de' MMMM 'de' yyyy 'às' HH:mm:ss",
     { locale: ptBR }
   );
