@@ -1,11 +1,15 @@
-name: READEME age build
+name: README age build
 
 on:
   push:
-    branches: 
+    branches:
       - main
   schedule:
     - cron: "0 6 * * *"
+
+concurrency:
+  group: readme-generation
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -13,17 +17,18 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Setup Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: '20'
+        cache: 'npm'
     - name: Install dependencies
-      run: npm install
+      run: npm ci
     - name: Generate README
-      run: node calcCurrentAge.js
+      run: node scripts/generate-readme.js
     - name: Commit and push
-      uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH_NAME: main
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Automated publish"
+        file_pattern: README.md

@@ -30,12 +30,12 @@ async function generateReadme() {
     { locale: ptBR }
   );
 
-  const output = Mustache.render(fs.readFileSync("./main.mustache", "utf8"), {
+  const output = Mustache.render(fs.readFileSync(__dirname + "/main.mustache", "utf8"), {
     age: actualAge,
     generatedAt: generatedAtDate,
   });
 
-  fs.writeFileSync("README.md", output);
+  fs.writeFileSync(__dirname + "/../README.md", output);
 }
 
 generateReadme();
